@@ -31,8 +31,3 @@ Makefile<br>
 # fopen.c
 
 ![image](https://github.com/mooner1213/SystemPgm/assets/162667655/f6d007c1-56ac-4514-9675-afe5f8e4d0c3)
-
-# fsize.c
-
-![image](https://github.com/mooner1213/SystemPgm/assets/162667655/fc16ff0b-00a5-42f7-84f8-d1b0241166cc)
-
