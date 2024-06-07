@@ -1,6 +1,6 @@
 # 실습
 
-수면장애 및 몸살로인한 결석
+수면장애로 인한 수면제 복용 및 몸살로인한 결석
 
 **Linux Command Line and Shell Scripting Bible, 2nd Edition.pdf**
 
