@@ -93,11 +93,3 @@ void copy(char from[], char to[]){
 #define MAXLINE 100
 void copy(char from[], char to[]);
 ```
-
-# make 시스템
-
-![image](https://github.com/mooner1213/SystemPgm/assets/162667655/fadc5fef-eda0-4307-a60b-a4c78bd3c9ef)<br>
-
-구성<br>
-![image](https://github.com/mooner1213/SystemPgm/assets/162667655/0d331738-6d80-4b03-9792-1cad3b1cf003)
-![image](https://github.com/mooner1213/SystemPgm/assets/162667655/784b3b80-6b05-4278-986f-fd9458156630)
